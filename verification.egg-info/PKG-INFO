@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: verification
+Version: 0.0.1
+Summary: C'est un package qui verifie la saisie des utilisateurs que se soit les nombres ou les lettres elle permet aussi de verifié que l'utilisateur a entrer la valeur demander
+Home-page: https://github.com/Beluissidoine/verification
+Author: Ghislain Beluis
+Author-email: ghislainbella3@gmail.com
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.11
+License-File: LICENCE
